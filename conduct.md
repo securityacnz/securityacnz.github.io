@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome!
+# Code of Conduct
 
 We want to make this event a welcoming environment for all attendees. To that end, we would like to remind you that all activities associated with this event are subject to OWASP's [Conference Policies](https://www.owasp.org/index.php/Governance/Conference_Policies). At their core, these policies are intended to promote and maintain an inclusive, welcoming environment for all participants - actions detrimental to that environment are unwelcome.
 

@@ -56,5 +56,6 @@ date.
 
 We are committed to running an event that is inclusive to all and
 where everyone is welcome. There will be no alcohol.
-This event has a [code of conduct](Conduct). We reserve the right to
+This event has a [code of conduct](conduct), and we expect everyone to
+read it and abide by it. We reserve the right to
 remove anyone, for any reason.
