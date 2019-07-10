@@ -54,5 +54,7 @@ date.
 
 ## Boring, but serious stuff
 
-This event will have a strict code of conduct. This will be updated
-with details soon.
+We are committed to running an event that is inclusive to all and
+where everyone is welcome. There will be no alcohol.
+This event has a [code of conduct](Conduct). We reserve the right to
+remove anyone, for any reason.
