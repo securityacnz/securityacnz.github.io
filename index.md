@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# REGISTER
-
 # Welcome!
 
 _You_ are invited to join us at security.ac.nz this August for a
