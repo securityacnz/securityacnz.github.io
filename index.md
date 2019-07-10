@@ -28,8 +28,8 @@ like:
 
 ## Where?
 
-Victoria University of Wellington
-Kelburn Campus
+Victoria University of Wellington  
+Kelburn Campus  
 Wellington
 
 ## When?
