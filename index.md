@@ -52,6 +52,14 @@ registration to keep your place.
 Details of activities, sessions and speakers will come closer to the
 date.
 
+## Share
+
+Print out our [A4 poster](security_ac_nz_poster.pdf) and display it proudly around your school.
+
+Follow us on twitter: [@securityacnz](https://twitter.com/securityacnz)
+
+Any questions? [info@security.ac.nz](mailto:info@security.ac.nz)
+
 ## Boring, but serious stuff
 
 We are committed to running an event that is inclusive to all and
