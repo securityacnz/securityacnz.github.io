@@ -40,7 +40,7 @@ Saturday & Sunday
 
 ## How?
 
-[Register now](https://security.ac.nz) for your free ticket to the
+[Register now](https://securityacnz.eventbrite.com) for your free ticket to the
 best security-themed weekend event at Victoria University this August!
 
 Note: Spaces are limited, and people are notorious for registering and not attending free
