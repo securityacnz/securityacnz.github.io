@@ -12,6 +12,11 @@ mid-trimester break weekend to learn all about security and hacking.
 You! Anyone who is learning about software, and wants to learn about
 how to make software secure... with a dose of "how to hack" thrown in.
 
+To clarify: The two days will aim to suit students with a 100-level
+knowledge of software development. However, you're still welcome if
+you're not a University student... anyone interested in security
+should come!
+
 ## What?
 
 Two days of training in the art of securing the web... covering topics
