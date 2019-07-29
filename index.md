@@ -59,7 +59,7 @@ date.
 
 ## Share
 
-Print out our [A4 poster](security_ac_nz_poster.pdf) and display it proudly around your school.
+Print out our [A4 poster](security_ac_nz_poster.png) and display it proudly around your school.
 
 Follow us on twitter: [@securityacnz](https://twitter.com/securityacnz)
 
