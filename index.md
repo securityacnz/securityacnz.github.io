@@ -37,11 +37,23 @@ Victoria University of Wellington
 Kelburn Campus  
 Wellington
 
+We will be running the two day activities in Maclaurin Lecture Theatre 3 (MC 103) at the Victoria University Kelburn Campus. 
+
+![Maclaurin Theatre 3 location map](maclaurin.png)
+
+Check out the [campus map](https://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf) and look at [bus times](https://www.metlink.org.nz/stop/5915). Parking is limited around the campus, and there are towaway and time restrictions.
+
+If you're unfamiliar with the Kelburn campus, let us know on your registration confirmation form and we'll meet you and show you around.
+
+If you have accessibility requirements, [get in touch](mailto:info@security.ac.nz) and we'll make sure things are sorted.
+
 ## When?
 
 Saturday & Sunday  
 24 & 25 August  
 10am - 6pm
+
+Please arrive before 10am, so we can start promptly.
 
 ## How?
 
@@ -54,8 +66,13 @@ registration to keep your place.
 
 ## Why?
 
-Details of activities, sessions and speakers will come closer to the
-date.
+Over the course of the two days there will be [activities](activities) and [speakers](speakers). You will be learning about all aspects of security from some of the best in New Zealand!
+
+## Hungry?
+
+We will be providing a light lunch, catering for vegetarian and gluten free diets. Please bring a water bottle and any snacks you need to keep you going.
+
+The Kelburn campus will be pretty quiet on a mid-term break weekend, so don't count on anywhere being open for coffee or food.
 
 ## Share
 
