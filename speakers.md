@@ -103,6 +103,10 @@ John's focus is on developing and managing enterprise-wide Software Assurance Pr
 Before moving into application security, John worked as a solution architect, a Web development lead, and in developing discrete-event simulations of distributed systems. Along the way, he's also worked as a college instructor, trainer, and general IT consultant.
 
 ## Going further in AppSec
-Panel session
+Panel session:  
+Dax Roberts, Weltec  
+Erica Anderson  
+Ian Welch, Victoria University  
+Toni James, Lateral Security 
 
 In this session we'll discuss places you can learn more about security, and some options for what you can do next. Bring your questions!
