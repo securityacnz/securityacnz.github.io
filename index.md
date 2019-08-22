@@ -68,6 +68,8 @@ registration to keep your place.
 
 Over the course of the two days there will be [activities](activities) and [speakers](speakers). You will be learning about all aspects of security from some of the best in New Zealand!
 
+Check out the [handout](handout.pdf) you'll be given on arrival.
+
 ## Hungry?
 
 We will be providing a light lunch, catering for vegetarian and gluten free diets. Please bring a water bottle and any snacks you need to keep you going.
