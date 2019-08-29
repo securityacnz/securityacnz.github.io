@@ -16,6 +16,8 @@ Simon Howard runs ZX Security, a penetration testing firm based in Wellington. S
 ## What’s in a name?
 Joanna Rubi, Spark NZ
 
+[video](https://www.youtube.com/watch?v=Iekb7Qj0Zkw)
+
 So what's in a name? That which we call a security role by any other name would sound as sweet. When people think of Security, most people would think of physical security, and if they watch Mr Robot, they would exclaim hackers! But how about the others in between the security guards and the red-team. It takes a village to better the security posture of a business or a product, so who are the other knights in the round table sharpening their keyboards to safeguard New Zealand from wolves in sheep’s clothing. Let’s unravel the other champions in the army that protect the fort.
 
 Nature loving, barefoot exploring, culture craving, adrenaline searching, violin plant playing, guinea pig mother making, solo backpacking, and code crunching Elohim believing dudette! Apart from all that jazz, I am that person who gets excited in Process Improvement, Big Data, and Cyber Security problem solving, creating solutions with a focus on efficiency and usability, doing so with a customer-centric mindset while living the agile life with my team! Follow me on [@geeitsjo](http://twitter.com/geeitsjo)
@@ -36,6 +38,8 @@ Consultant. She's won a few scholarships in her quest to get more women into tec
 ## Trust (& how the internet works)
 Alex Nikolova, Aura Information Security
 
+[slides](slides/2019-08-25-AlexNikolova.pdf) [video](https://www.youtube.com/watch?v=_lei4i82IxQ)
+
 You think "networking" is all about talking to strangers wearing suits while trying not to get distracted by the free buffet and anxious thoughts of future unemployed self? Not the kind of networking I'm into! This talk will be about TCP/IP, OSI, DHCP, DNS, HTTP, SSL/TLS, CSRF, SOP, CORS, and a bunch more three- and four-letter acronyms you may think you know all about (but in fact don't). I.e. what technologies enable you to enter a URL or search term in your browser address bar and instantly see funny bird (don't like cats, sorry not sorry) videos.
 
 They call her Alex, but she is The Socially Awkward Penguin. She felt very awkward writing a bio in third person, so instead she quoted herself:
@@ -48,8 +52,11 @@ I don't do gym. I suck at gymming. I tried going to the gym... three times. By t
 
 [@AaylaSecura1138](http://twitter.com/AaylaSecura1138)
 
+
 ## Don't Trust User Input
-Ellie Coyle, Xero
+Kirk Jackson, RedShield
+
+[slides](slides/2019-08-25-KirkJackson.pdf) [video](https://www.youtube.com/watch?v=7QlvWukaxck)
 
 So many of the security issues you'll see this weekend are caused by trusting user input. We will discuss what SQLi and XSS are, how the root causes of both is trusting input and using it in an “execution” context and an introduction into ways of mitigating those attacks.
 
@@ -67,6 +74,8 @@ Anu has been in the Security industry for more than 16 years now. One of her pas
 ## Algorithms, cryptography and protocols
 Kate Pearce, Trade Me
 
+[slides](slides/2019-08-25-KatePearce.pdf) [video](https://www.youtube.com/watch?v=rAkTDAO98jI)
+
 A surprising amount of security is actually based on maths. But don't worry, we won't talk about maths in this talk!
 
 We will discuss the places that cryptography is important in the internet, the current contenders for “best practice”, and why you should stand on the shoulders of giants rather than building it yourself.
@@ -75,12 +84,16 @@ We will discuss the places that cryptography is important in the internet, the c
 ## Security in “the cloud”
 Erica Anderson
 
+[slides](slides/2019-08-25-EricaAnderson.pdf) [video](https://www.youtube.com/watch?v=7AmjjPCqMAE)
+
 In this session we will discuss the differences when you are securing your applications and data when you move them to "the cloud".
 
 Her twitter bio ([@sputina](http://twitter.com/sputina)) says “infosec, cat, and ketchup enthusiast” which summarises her quite nicely. Erica currently works as an IT security contractor, and has had a range of experience in infosec - She has been a consultant, tester, engineer, analyst, instructor, and incident responder. She also causes general mayhem with Kiwicon, [Kawaiicon](https://kawaiicon.org), Code Club Aotearoa, and BSides Wellington.
 
 ## Threat Modelling and Risk Assessment
 Chloe Ashford, Quantum Security
+
+[slides](slides/2019-08-25-ChloeAshford.pptx) [video](https://www.youtube.com/watch?v=eKVjMHgyWRY)
 
 In this talk we will discuss how threat modelling is used as a tool for risk management. While you won't need to understand  a huge risk framework, we will introduce you to the following ideas:
 
@@ -94,6 +107,8 @@ Chloe is a Security Consultant from Quantum Security based in Wellington. Her fo
 ## Security Considerations for Mobile Apps and APIs
 Dr John DiLeo, OWASP New Zealand Chapter - Auckland
 
+[slides](slides/2019-08-25-JohnDiLeo.pdf) [video](https://www.youtube.com/watch?v=BSI5ai8M2Z4)
+
 In these two days we have covered a lot of aspects of security. How do we apply what we've learnt to buildling a secure Mobile Application and API?
 
 John is one of the co-leaders of the OWASP New Zealand Chapter. He moved to Auckland, from the United States, in 2017, and now works as Orion Health's Application Security Architect. 
@@ -104,7 +119,7 @@ Before moving into application security, John worked as a solution architect, a 
 
 ## Going further in AppSec
 Panel session:  
-Dax Roberts, Weltec  
+Dax Roberts, Weltec [slides](slides/2019-08-25-DaxRoberts.pptx) [video](https://www.youtube.com/watch?v=Yi_hHHAazDg)  
 Erica Anderson  
 Ian Welch, Victoria University  
 Toni James, Lateral Security 
