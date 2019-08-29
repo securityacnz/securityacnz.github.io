@@ -25,6 +25,8 @@ Nature loving, barefoot exploring, culture craving, adrenaline searching, violin
 ## The Pentesting Process - Don't do crimes
 Toni James, Lateral Security
 
+[video](https://www.youtube.com/watch?v=65vkGXHfOKk)
+
 What does a Penetration Tester actually do? tldr: We get paid to hack, but there are some rules of engagement that you MUST follow.
 
 The goal of this session is to provide an understanding of how to approach a penetration test, otherwise known as an offensive engagement, like a bug bounty. This includes the preparation, testing, and follow up which will  provide a structured process and critical skills on how to break down overwhelming problems into manageable paths and have fun along the way.
