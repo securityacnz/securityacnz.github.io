@@ -67,6 +67,8 @@ Henlo! I am a blue haired software engineer with a devSecOps bend. Outside of wo
 ## Authentication, authorisation, logging and alerting
 Anupurna Kaw, Vodafone NZ
 
+[video](https://www.youtube.com/watch?v=lv38FqHkITg)
+
 In this session we will discuss how important visibility is to securing your systems, and the fundamental role that authentication and authorisation play in guarding access to our sensitive data.
 
 Anu has been in the Security industry for more than 16 years now. One of her passions is to mentor. She is actively involved in mentoring the next gen of security professionals through [“Project Wednesday”](https://www.linkedin.com/groups/10431979/) cyber security meetup, Linkedin and Vodafone Grad Programme. She was one of the finalists (technical) in Women in ICT Awards 2019 (NZ).
