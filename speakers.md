@@ -16,7 +16,7 @@ Simon Howard runs ZX Security, a penetration testing firm based in Wellington. S
 ## What’s in a name?
 Joanna Rubi, Spark NZ
 
-[video](https://www.youtube.com/watch?v=Iekb7Qj0Zkw)
+[slides](slides/2019-08-24-JoannaRubi.pptx) [video](https://www.youtube.com/watch?v=Iekb7Qj0Zkw)
 
 So what's in a name? That which we call a security role by any other name would sound as sweet. When people think of Security, most people would think of physical security, and if they watch Mr Robot, they would exclaim hackers! But how about the others in between the security guards and the red-team. It takes a village to better the security posture of a business or a product, so who are the other knights in the round table sharpening their keyboards to safeguard New Zealand from wolves in sheep’s clothing. Let’s unravel the other champions in the army that protect the fort.
 
