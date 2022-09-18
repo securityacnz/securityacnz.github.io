@@ -59,6 +59,23 @@ Saturday
 
 Please check in by 9:45 a.m., so we can start promptly.
 
+### Conference Schedule
+
+|:-------:|:----------:|:------:|:--------:|:------------:|
+|9:15|10:00|Check-in, Morning Tea| -- | Level 0 Foyer|
+|10:00|10:15|Welcome, Health & Safety| *John DiLeo, Event Host* | OGGB 4 |
+|10:15|11:00|History of Hacking in New Zealand | *Simon Howard, ZX Security* | OGGB 4|
+|11:05|11:35|Looking for Trouble in the Right Places: Bug Bounties and You|*Sana Oshika, Pulse Security* | OGGB 4 |
+|11:40|12:30| Leveraging OWASP Projects and Tools to Build Secure Software | *John DiLeo, OWASP NZ* | OGGB 4 |
+|12:30|13:30| Lunch | -- | Level 0 Foyer |
+|13:30|14:00|The Incident Response Plan that Saved Christmas | *Petra Smith, Sharesies* | OGGB 4 |
+|14:05|15:45|Workshop - Application Threat Modelling | *John DiLeo, Datacom* | OGGB 4 |
+|15:45|16:15|Afternoon Tea Break | -- | Level 0 Foyer |
+|16:15|16:45|Careers in AppSec |*Karan Sharma, Wise Fox Security* | OGGB 4 |
+|16:45|17:45|Panel Discussion: Going Further in AppSec | *Panelists TBC* | OGGB 4|
+|17:45|18:00|Wrap-up and Closing Remarks| *John DiLeo, Event Host* | OGGB 4 |
+
+
 ## How?
 
 [Register now](https://events.humanitix.com/security-ac-nz-2022-auckland){: target="_blank" } for your free ticket to the
