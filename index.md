@@ -59,7 +59,7 @@ Saturday
 24 September 2022   
 10:00 a.m. - 6:00 p.m.
 
-Please arrive by 9:45 a.m., so we can start promptly.
+Please check in by 9:45 a.m., so we can start promptly.
 
 ## How?
 
