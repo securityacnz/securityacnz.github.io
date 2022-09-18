@@ -36,9 +36,7 @@ University of Auckland
 12 Grafton Road, Auckland
 
 We will be running the day's activities in the OGGB 4 Lecture Theatre (Room 073), in the Owen G. Glenn Building. Check-in, tea breaks, and 
-lunch service will be in the Level 0 Foyer (Room 071), just outside OGGB 4.
-
-![OGGB Level 0 Floor Plan](OGGB_Level0.png)
+lunch service will be in the Level 0 Foyer (Room 071), just outside OGGB 4. You can refer to the [OGGB Level 0 Floor Plan](OGGB_Level0.pdf), to see where everything is.
 
 Check out the [campus map](city-campus-map.pdf), to get the lay of the land. 
 
