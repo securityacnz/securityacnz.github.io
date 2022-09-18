@@ -4,27 +4,25 @@ layout: default
 
 # Welcome!
 
-_You_ are invited to join us at security.ac.nz this August for a
-mid-trimester break weekend to learn all about security and hacking.
+_You_ are invited to join us at security.ac.nz this September for an 
+amazing day of learning about security and hacking.
 
 ## Who?
 
 You! Anyone who is learning about software, and wants to learn about
 how to make software secure... with a dose of "how to hack" thrown in.
 
-To clarify: The two days will aim to suit students with a 100-level
+To clarify: The day will aim to suit students with a 100-level
 knowledge of software development. However, you're still welcome if
 you're not a University student... anyone interested in security
 should come!
 
 ## What?
 
-Two days of training in the art of securing the web... covering topics
+A day of training in the art of securing the web... covering topics
 like:
 
 - Learning to hack
-- Capture the Flag
-- Bug Bounty
 - Threats & Trust
 - Secure the Cloud
 - Secure Development
@@ -33,56 +31,62 @@ like:
 
 ## Where?
 
-Victoria University of Wellington  
-Kelburn Campus  
-Wellington
+Sir Owen G. Glenn Building
+University of Auckland  
+12 Grafton Road, Auckland
 
-We will be running the two day activities in Maclaurin Lecture Theatre 3 (MC 103) at the Victoria University Kelburn Campus. 
+We will be running the day's activities in the OGGB 4 Lecture Theatre (Room 073), in the Owen G. Glenn Building. Check-in, tea breaks, and 
+lunch service will be in the Level 0 Foyer (Room 071), just outside OGGB 4.
 
-![Maclaurin Theatre 3 location map](maclaurin.png)
+![OGGB Level 0 Floor Plan](OGGB_Level0.pdf)
 
-Check out the [campus map](https://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf) and look at [bus times](https://www.metlink.org.nz/stop/5915). Parking is limited around the campus, and there are towaway and time restrictions.
+Check out the [campus map](city-campus-map.pdf), to get the lay of the land. 
 
-If you're unfamiliar with the Kelburn campus, let us know on your registration confirmation form and we'll meet you and show you around.
+Paid parking is available in the underground parking garage at the OGGB, for $6 per day on the weekend 
+([Campus Parking Information](https://www.auckland.ac.nz/en/on-campus/our-campuses/parking-information.html)).
 
-If you have accessibility requirements, [get in touch](mailto:info@security.ac.nz) and we'll make sure things are sorted.
+Public transport options:
+
+* Outer Link Bus - Stops directly in front of the building, on Grafton Road.
+* Routes 25B, 25L, and 75 - Stop at corner of Symonds Street and St. Paul Street (approx. 450m from the OGGB).
+* Routes 27H, 27T, 27W, 70, 72X, 321, 931, 933, and 939 - Stop on Anzac Avenue, near Warterloo Quadrant (approx. 300m from the OGGB). 
+
+If you have accessibility requirements, [get in touch](mailto:info@appsec.org.nz) and we'll make sure things are sorted.
 
 ## When?
 
-Saturday & Sunday  
-24 & 25 August  
-10am - 6pm
+Saturday  
+24 September 2022   
+10:00 a.m. - 6:00 p.m.
 
-Please arrive before 10am, so we can start promptly.
+Please arrive by 9:45 a.m., so we can start promptly.
 
 ## How?
 
-[Register now](https://securityacnz.eventbrite.com) for your free ticket to the
-best security-themed weekend event at Victoria University this August!
+[Register now](https://events.humanitix.com/security-ac-nz-2022-auckland) for your free ticket to the
+best security-themed weekend event at University of Auckland this September!
 
-Note: Spaces are limited, and people are notorious for registering and not attending free
-events. In the week before the event you'll have to confirm your
-registration to keep your place.
+Spaces are limited, and registration CLOSES on Wednesday, 21st September! Get your tickets now!
 
 ## Why?
 
-Over the course of the two days there will be [activities](activities) and [speakers](speakers). You will be learning about all aspects of security from some of the best in New Zealand!
+Over the course of the day, there will be a number of [speakers](speakers). You will be learning about a wide array of security topics, from some of the best in New Zealand!
 
-Check out the [handout](handout.pdf) you'll be given on arrival.
 
 ## Hungry?
 
-We will be providing a light lunch, catering for vegetarian and gluten free diets. Please bring a water bottle and any snacks you need to keep you going.
+Morning tea will be served during check-in (9:15 - 10:00), with coffee, tea, and something savoury. We'll also provide a light lunch 
+and afternoon tea. Tea break and lunch service will include items suitable for vegetarian and gluten-free diets. 
 
-The Kelburn campus will be pretty quiet on a mid-term break weekend, so don't count on anywhere being open for coffee or food.
+Please bring a water bottle and any snacks you need, to keep you going.
+
+The U of A campus will be pretty quiet on the weekend, so don't count on many places being open for coffee or food.
 
 ## Share
 
-Print out our [A4 poster](security_ac_nz_poster.png) and display it proudly around your school.
+Follow us on twitter: [@AppSecNZ](https://twitter.com/AppSecNZ)
 
-Follow us on twitter: [@securityacnz](https://twitter.com/securityacnz)
-
-Any questions? [info@security.ac.nz](mailto:info@security.ac.nz)
+Any questions? [info@appsec.org.nz](mailto:info@appsec.org.nz)
 
 ## Boring, but serious stuff
 

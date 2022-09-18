@@ -4,128 +4,67 @@ layout: default
 
 # Speakers and topics
 
-As well as the [activities](activities), we also have these great talks lined up for you. Come and learn from some of the most interesting people in NZ security!
+We have these great talks lined up for you. Come and learn from some of the most interesting people in NZ security!
 
 ## History of hacking in NZ
-Simon Howard, ZX Security
+Simon Howard, ZX Security   
 
 Has there been hacking in New Zealand? What happened to the people involved? Simon will talk about the history of security in New Zealand and how we've got to where we are now.
 
-Simon Howard runs ZX Security, a penetration testing firm based in Wellington. Simon also co-founded and assists with running Australasia’s largest hacker conference, Kiwicon (similar to Kawaiicon but less cute). Simon and his team spend their days testing the security of their customers networks, applications and people.
+This is an updated version of Simon's presentation at the first **security.ac.nz** conference, in 2019.
 
-## What’s in a name?
-Joanna Rubi, Spark NZ
+**Simon Howard** runs ZX Security, a penetration testing firm based in Wellington. Simon also co-founded Australasia’s largest hacker conference, Kiwicon (similar to Kawaiicon but less cute). Simon and his team spend their days testing the security of their customers' networks, applications and people.
 
-[slides](slides/2019-08-24-JoannaRubi.pptx) [video](https://www.youtube.com/watch?v=Iekb7Qj0Zkw)
+## Looking for Trouble in the Right Places: Bug Bounties and You    
+Sana Oshika, Pulse Security
 
-So what's in a name? That which we call a security role by any other name would sound as sweet. When people think of Security, most people would think of physical security, and if they watch Mr Robot, they would exclaim hackers! But how about the others in between the security guards and the red-team. It takes a village to better the security posture of a business or a product, so who are the other knights in the round table sharpening their keyboards to safeguard New Zealand from wolves in sheep’s clothing. Let’s unravel the other champions in the army that protect the fort.
+Before I entered the world of security, I was a software developer with no experience hacking things, no knowledge of hacking tools, and had never seen a bug bounty before. Regardless, I found a security vulnerability in a product by one of the largest tech companies in the world, your favourite search engine (not Bing).
 
-Nature loving, barefoot exploring, culture craving, adrenaline searching, violin plant playing, guinea pig mother making, solo backpacking, and code crunching Elohim believing dudette! Apart from all that jazz, I am that person who gets excited in Process Improvement, Big Data, and Cyber Security problem solving, creating solutions with a focus on efficiency and usability, doing so with a customer-centric mindset while living the agile life with my team! Follow me on [@geeitsjo](http://twitter.com/geeitsjo)
+This presentation will talk you through the security issue I found in Google, how I found it, and how I got paid for it. Along the way, I'll tell you about the skills I picked up that took me from writing software to the dark side of breaking it. I'll dispel some of the myths surrounding bug bounties and hacking for a living. And by the end, you'll discover that you too can start hunting for trouble and get paid for it.
 
-## The Pentesting Process - Don't do crimes
-Toni James, Lateral Security
+**Sana Oshika** is a Junior Security Consultant at Pulse Security, where she spends her days breaking sites and apps for clients. Previously, she was a DevOps engineer and software developer who has consulted and worked at a variety of SaaS companies across New Zealand and Australia. She got her start in security by poking around other peoples' websites and asking "What happens if I do this?" a few too many times. Sana took the scenic route into the tech industry.
 
-[video](https://www.youtube.com/watch?v=65vkGXHfOKk)
+## The Incident Response Plan that Saved Christmas
+Petra Smith, Sharesies
 
-What does a Penetration Tester actually do? tldr: We get paid to hack, but there are some rules of engagement that you MUST follow.
+It's Christmas Day. You're floating serenely in the coral sea surrounding a real live tropical desert island...when, suddenly, you're having a too-close encounter with deadly wildlife. What do you do? Just follow your Incident Response Plan, of course!&dagger;
 
-The goal of this session is to provide an understanding of how to approach a penetration test, otherwise known as an offensive engagement, like a bug bounty. This includes the preparation, testing, and follow up which will  provide a structured process and critical skills on how to break down overwhelming problems into manageable paths and have fun along the way.
+Don't have an Incident Response Plan? No worries. I'll take you through how to make a plan to help you navigate the shark-infested waters of a security incident with less stress, and get back to business - or living your best tropical mermaid life - quicker.
 
-Toni is a snowboarder turned Software Engineer turned Security
-Consultant. She's won a few scholarships in her quest to get more women into tech and she's really good at supporting others to do 'all the things'. A firm believer in ‘you need to see it to be it,’ she puts herself out there to enable others to step up and challenge the status quo. She/Her.
+If your team's worst-case scenario plan is to hope it never happens, this talk is for you. I'll show you why you should prepare for the worst, and how anyone can make a plan that works.
 
-[@_tonijames](https://twitter.com/_tonijames) 
-[LinkedIn](https://nz.linkedin.com/in/tonimariejames)
+&dagger; *Based on a true story*
 
-## Trust (& how the internet works)
-Alex Nikolova, Aura Information Security
+**Petra Smith** is a professional opinion-haver and security culture specialist who is on a mission to make information security accessible to everyone. She has a point and she’s getting to it.
 
-[slides](slides/2019-08-25-AlexNikolova.pdf) [video](https://www.youtube.com/watch?v=_lei4i82IxQ)
-
-You think "networking" is all about talking to strangers wearing suits while trying not to get distracted by the free buffet and anxious thoughts of future unemployed self? Not the kind of networking I'm into! This talk will be about TCP/IP, OSI, DHCP, DNS, HTTP, SSL/TLS, CSRF, SOP, CORS, and a bunch more three- and four-letter acronyms you may think you know all about (but in fact don't). I.e. what technologies enable you to enter a URL or search term in your browser address bar and instantly see funny bird (don't like cats, sorry not sorry) videos.
-
-They call her Alex, but she is The Socially Awkward Penguin. She felt very awkward writing a bio in third person, so instead she quoted herself:
-
-"I didn't do a PhD. I suck at PhDs. I started a PhD project... three times. By the time I got to write my thesis I was bored already. But hey, I love arguing over problems no one ever cared or will ever care about.
-
-I don't do bug bounties. I suck at bug bounties. I tried looking for bugs... three times. By the time I decided on a bounty program I was bored already. But hey, I love breaking web apps that give me shells.
-
-I don't do gym. I suck at gymming. I tried going to the gym... three times. By the time I decided on an exercise I was bored already. But hey, I love punching people."
-
-[@AaylaSecura1138](http://twitter.com/AaylaSecura1138)
-
-
-## Don't Trust User Input
+## Topic TBC
 Kirk Jackson, RedShield
 
-[slides](slides/2019-08-25-KirkJackson.pdf) [video](https://www.youtube.com/watch?v=7QlvWukaxck)
+**Kirk Jackson** works at RedShield, leads the OWASP New Zealand Chapter's Wellington Meetup, and has previously helped organise the annual OWASP NZ Day in Auckland. He also founded the **security.ac.nz** conference, chairing the inaugural event in August 2019.
 
-So many of the security issues you'll see this weekend are caused by trusting user input. We will discuss what SQLi and XSS are, how the root causes of both is trusting input and using it in an “execution” context and an introduction into ways of mitigating those attacks.
+Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, working as a pen tester, and in defence roles at several companies.
 
-Henlo! I am a blue haired software engineer with a devSecOps bend. Outside of work you'll catch me buying too many soft toys for a person in their twenties, posting lots of photos of my cat to social media and/or drinking a sour beer.
+## Workshop - Application Threat Modelling
+John DiLeo, Datacom
 
-## Authentication, authorisation, logging and alerting
-Anupurna Kaw, Vodafone NZ
+This workshop offers an interactive introduction to Application Threat Modeling and its use as a technique for identifying consequential ("Yes, and...") security requirements. After  addressing the "Five Ws of Threat Modelling," John will present his "Seven Questions" approach (adapted from Shostack's "Four Questions") to developing a model. Through a series of small-group and whole-group exercises, we'll develop an initial threat model for a 'typical' single-page web application.
 
-[video](https://www.youtube.com/watch?v=lv38FqHkITg)
+**Dr. John DiLeo** leads the Application Security Services team at Datacom, hosts the OWASP New Zealand Chapter's Auckland Meetup, and chairs the annual OWASP New Zealamd Day conference. He moved to Auckland, from the United States, in 2017. Before joining Datacom, John was the Application Security Architect at Orion Health, then at Air New Zealand. 
 
-In this session we will discuss how important visibility is to securing your systems, and the fundamental role that authentication and authorisation play in guarding access to our sensitive data.
-
-Anu has been in the Security industry for more than 16 years now. One of her passions is to mentor. She is actively involved in mentoring the next gen of security professionals through [“Project Wednesday”](https://www.linkedin.com/groups/10431979/) cyber security meetup, Linkedin and Vodafone Grad Programme. She was one of the finalists (technical) in Women in ICT Awards 2019 (NZ).
-
-[Linkedin](https://www.linkedin.com/in/anupurna/)
-
-## Algorithms, cryptography and protocols
-Kate Pearce, Trade Me
-
-[slides](slides/2019-08-25-KatePearce.pdf) [video](https://www.youtube.com/watch?v=rAkTDAO98jI)
-
-A surprising amount of security is actually based on maths. But don't worry, we won't talk about maths in this talk!
-
-We will discuss the places that cryptography is important in the internet, the current contenders for “best practice”, and why you should stand on the shoulders of giants rather than building it yourself.
-
-
-## Security in “the cloud”
-Erica Anderson
-
-[slides](slides/2019-08-25-EricaAnderson.pdf) [video](https://www.youtube.com/watch?v=7AmjjPCqMAE)
-
-In this session we will discuss the differences when you are securing your applications and data when you move them to "the cloud".
-
-Her twitter bio ([@sputina](http://twitter.com/sputina)) says “infosec, cat, and ketchup enthusiast” which summarises her quite nicely. Erica currently works as an IT security contractor, and has had a range of experience in infosec - She has been a consultant, tester, engineer, analyst, instructor, and incident responder. She also causes general mayhem with Kiwicon, [Kawaiicon](https://kawaiicon.org), Code Club Aotearoa, and BSides Wellington.
-
-## Threat Modelling and Risk Assessment
-Chloe Ashford, Quantum Security
-
-[slides](slides/2019-08-25-ChloeAshford.pptx) [video](https://www.youtube.com/watch?v=eKVjMHgyWRY)
-
-In this talk we will discuss how threat modelling is used as a tool for risk management. While you won't need to understand  a huge risk framework, we will introduce you to the following ideas:
-
-- The issue with security being an afterthought
-- Doing threat modelling during the SDLC and on an existing application
-- How we must balance the weight of countermeasures vs threats
-- How we go about analysing a system in order to determine threats and prioritise them
-
-Chloe is a Security Consultant from Quantum Security based in Wellington. Her focus is on risk management, security assurance activities and Certification & Accreditation for government. She cross-trained into security after completing a psychology degree and is particularly interested in encouraging diversity in IT.
-
-## Security Considerations for Mobile Apps and APIs
-Dr John DiLeo, OWASP New Zealand Chapter - Auckland
-
-[slides](slides/2019-08-25-JohnDiLeo.pdf) [video](https://www.youtube.com/watch?v=BSI5ai8M2Z4)
-
-In these two days we have covered a lot of aspects of security. How do we apply what we've learnt to buildling a secure Mobile Application and API?
-
-John is one of the co-leaders of the OWASP New Zealand Chapter. He moved to Auckland, from the United States, in 2017, and now works as Orion Health's Application Security Architect. 
-
-John's focus is on developing and managing enterprise-wide Software Assurance Programmes, including the assessment of the organisation's maturity and building a roadmap to improve. This led him to join the core team of the OWASP SAMM project, where he helped to create SAMM 2.0. John is also co-leader of the OWASP Application Security Curriculum Project.
+John's focus is on developing and managing enterprise-wide Software Assurance Programmes, including the assessment of the organisation's maturity and building a roadmap to improve. This led him to join the core team of the OWASP SAMM project, where he helped to create SAMM 2.0. John is also Vice Chair of OWASP's Education and Training Committee, and regularly presents at global OWASP conferences and security conferences in New Zealand.
 
 Before moving into application security, John worked as a solution architect, a Web development lead, and in developing discrete-event simulations of distributed systems. Along the way, he's also worked as a college instructor, trainer, and general IT consultant.
+[@gr4ybeard](https://twitter.com/gr4ybeard) 
+[LinkedIn](https://nz.linkedin.com/in/john-dileo)
 
-## Going further in AppSec
-Panel session:  
-Dax Roberts, Weltec [slides](slides/2019-08-25-DaxRoberts.pptx) [video](https://www.youtube.com/watch?v=Yi_hHHAazDg)  
-Erica Anderson  
-Ian Welch, Victoria University  
-Toni James, Lateral Security 
+## Careers in AppSec
+Karan Sharma, Wise Fox Security
+
+This talk will focus on what different types of career paths are available in Cybersecurity and how you can prepare yourself to land a job of your dreams. I will also cover how possessing general IT skills set a great foundation for your InfoSec career. I would also love to answer any questions that you might have after or during the talk as this is supposed to be an interactive presentation.
+
+**Karan Sharma** has been in this field for over 12 years. He has worked as a Pentester for NZ telcos, banks, health sectors and manufacturing companies. He now runs his own security consulting company called Wise Fox Security, that offers services in Offensive Security and DevSecOps space. He has also completed a few of the 'customary' certifications, including OSWE, OSCP, eWPTX and Certified DevSecOps Professional (CDP). He has also spoken at a number of other security conferences. Other than InfoSec, Karan loves watching and playing football, loves evening runs with his dog and has a great weakness for a nice Coffee and Almond Croissants. Tweet me at [@W1S3F0X](http://twitter.com/W1S3F0X).
+
+## Going Further in AppSec
+Panel session: Panelists TBC 
 
 In this session we'll discuss places you can learn more about security, and some options for what you can do next. Bring your questions!
