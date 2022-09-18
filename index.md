@@ -61,6 +61,7 @@ Please check in by 9:45 a.m., so we can start promptly.
 
 ### Conference Schedule
 
+|:Start:|:End:|:What:|:Who:|:Where:|
 |:-------:|:----------:|:------:|:--------:|:------------:|
 |9:15|10:00|Check-in, Morning Tea| -- | Level 0 Foyer|
 |10:00|10:15|Welcome, Health & Safety| *John DiLeo, Event Host* | OGGB 4 |
