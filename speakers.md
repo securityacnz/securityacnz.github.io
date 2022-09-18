@@ -24,6 +24,19 @@ This presentation will talk you through the security issue I found in Google, ho
 
 **Sana Oshika** is a Junior Security Consultant at Pulse Security, where she spends her days breaking sites and apps for clients. Previously, she was a DevOps engineer and software developer who has consulted and worked at a variety of SaaS companies across New Zealand and Australia. She got her start in security by poking around other peoples' websites and asking "What happens if I do this?" a few too many times. Sana took the scenic route into the tech industry.
 
+## Leveraging OWASP Projects and Tools to Build Secure Software
+Dr. John DiLeo, OWASP New Zealand Chapter
+
+The Open Web Application Security Project (OWASP) boasts nearly 200 active Projects, whose volunteers have developed tools and resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing what they are, where to find them, and how they can help.
+
+John will present a brief overview of an array of interesting and useful OWASP Projects, including the current Flagship Projects, with insights into how each can be used to improve the security of software.
+
+**Dr. John DiLeo** hosts the OWASP New Zealand Chapter's Auckland Meetup, and chairs the annual OWASP New Zealamd Day conference. He's one the core team of the OWASP SAMM project, where he helped to create SAMM 2.0. John is also Vice Chair of OWASP's Education and Training Committee, and regularly presents at global OWASP conferences and security conferences in New Zealand.
+
+Before moving into application security, John worked as a solution architect, a Web development lead, and in developing discrete-event simulations of distributed systems. Along the way, he's also worked as a college instructor, trainer, and general IT consultant.
+[@gr4ybeard](https://twitter.com/gr4ybeard) 
+[LinkedIn](https://nz.linkedin.com/in/john-dileo)
+
 ## The Incident Response Plan that Saved Christmas
 Petra Smith, Sharesies
 
@@ -36,13 +49,6 @@ If your team's worst-case scenario plan is to hope it never happens, this talk i
 &dagger; *Based on a true story*
 
 **Petra Smith** is a professional opinion-haver and security culture specialist who is on a mission to make information security accessible to everyone. She has a point and she’s getting to it.
-
-## Topic TBC
-Kirk Jackson, RedShield
-
-**Kirk Jackson** works at RedShield, leads the OWASP New Zealand Chapter's Wellington Meetup, and has previously helped organise the annual OWASP NZ Day in Auckland. He also founded the **security.ac.nz** conference, chairing the inaugural event in August 2019.
-
-Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, working as a pen tester, and in defence roles at several companies.
 
 ## Workshop - Application Threat Modelling
 John DiLeo, Datacom
