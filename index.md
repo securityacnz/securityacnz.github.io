@@ -61,8 +61,8 @@ Please check in by 9:45 a.m., so we can start promptly.
 
 ## How?
 
-[Register now](https://events.humanitix.com/security-ac-nz-2022-auckland) for your free ticket to the
-best security-themed weekend event at University of Auckland this September!
+[Register now](https://events.humanitix.com/security-ac-nz-2022-auckland){: target="_blank" } for your free ticket to the
+best security-themed one-day event at University of Auckland this September!
 
 Spaces are limited, and registration CLOSES on Wednesday, 21st September! Get your tickets now!
 
