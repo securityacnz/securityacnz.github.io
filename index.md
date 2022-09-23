@@ -72,7 +72,7 @@ Please check in by 9:45 a.m., so we can start promptly.
 |13:30|15:30|Workshop - Application Threat Modelling | *John DiLeo, Datacom* | OGGB 4 |
 |15:30|16:00|Afternoon Tea Break | -- | Level 0 Foyer |
 |16:00|16:45|The Incident Response Plan that Saved Christmas | *Petra Smith, Sharesies* | OGGB 4 |
-|16:50|17:45|Panel Discussion: Going Further in AppSec | *Panelists TBC* | OGGB 4|
+|16:50|17:45|Panel Discussion: Going Further in AppSec | James Cooper<br />Chris Hails<br />Simon Howard<br />John-Paul (JP) Sikking<br />Julian Simpson | OGGB 4|
 |17:45|18:00|Wrap-up and Closing Remarks| *John DiLeo, Event Host* | OGGB 4 |
 
 
